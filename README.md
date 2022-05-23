@@ -1,6 +1,7 @@
 <h1 align="center">DarkTrojan (F@br1x)</h1>
 <h3 align="center">I'm a guy passionate about Programming, Cybersecurity and a fan of good Anime. My favorite hobby is solving machines on the tryhackme platform :D</h3>
 
+<h3 align="center">Tryhackme Profile Badge</h1>
 <p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/DarkTrojan07.png" alt="TryHackMe"></p>
 
 
